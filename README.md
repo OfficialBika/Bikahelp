@@ -33,3 +33,6 @@ pm2 logs powerful-help-bot
 - `OWNER_ID`
 - `BOT_USERNAME`
 - `TZ`
+- `CHANNEL_USERNAME`
+- `OWNER_USERNAME`
+- `START_IMG`
